@@ -2,6 +2,7 @@ langchain
 langgraph
 langchain-community
 chromadb
+langchain-ollama  
 tiktoken
 pypdf
 fastapi
