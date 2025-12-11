@@ -1,6 +1,8 @@
 langchain
 langgraph
 langchain-community
+langchain-text-splitters
+langchain-chroma 
 chromadb
 langchain-ollama  
 tiktoken
@@ -9,3 +11,9 @@ fastapi
 uv
 pydantic
 python-dotenv
+fastapi
+pydantic
+pydantic-settings 
+
+   
+            
