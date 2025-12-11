@@ -1,7 +1,9 @@
-# ... your existing .gitignore content (venv, __pycache__, .env) ...
+# ... your other ignores like venv/ and .env ...
 
-# Ignore the generated vector store database
+# Generated database and source data
 /chroma/
-
-# Ignore the source PDF documents
 /data/
+
+# Python cache files that can get large
+app/__pycache__/
+__pycache__/
