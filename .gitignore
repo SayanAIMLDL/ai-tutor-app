@@ -1,0 +1,7 @@
+# ... your existing .gitignore content (venv, __pycache__, .env) ...
+
+# Ignore the generated vector store database
+/chroma/
+
+# Ignore the source PDF documents
+/data/
